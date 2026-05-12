@@ -6,8 +6,6 @@ Machine Learning + NLP project for automatic resume classification using Python.
 
 ## Overview
 
-## Overview
-
 This project explores how Machine Learning and Natural Language Processing (NLP) can be used to improve resume screening by automatically classifying resumes into job categories based on their text content.
 
 Traditional Applicant Tracking Systems (ATS) mainly depend on direct keyword matching, which can miss resumes that use different wording or phrasing. In contrast, this project uses TF-IDF and machine learning models to learn patterns and relationships between words across resumes, allowing the system to make more intelligent classifications based on overall context rather than exact keyword presence alone.
